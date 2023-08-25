@@ -1,4 +1,4 @@
-//Approach 1 that solves problem in O(NLogN) time 
+//Approach that solves problem in O(NLogN) time 
 #include<iostream>
 #include<vector>
 #include<algorithm>
